@@ -1,0 +1,12 @@
+
+    Copyright © 2024 by Transfrvr. All rights reserved. The assets contained in this archive,
+    including but not limited to 3D models (.fbx, .obj), images, audio files, and Unity project files, are the exclusive property of 
+    Transfrvr. These assets are provided for your viewing convenience only and are protected under copyright law. 
+    No part of these assets may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, 
+    recording, or other electronic or mechanical methods, without the prior written permission of Transfrvr.
+    This prohibition applies to all manners of use, whether personal, professional, or otherwise. 
+    Unauthorized use, sharing, or distribution of these assets is strictly prohibited and will be met with legal action. 
+    For permissions requests, write to the publisher at Transfrvr. 
+    This license is provided as part of the archive containing assets developed by Transfrvr and does not grant any rights to use the assets contained within, 
+    except as explicitly permitted by written consent from Transfrvr.
+    
